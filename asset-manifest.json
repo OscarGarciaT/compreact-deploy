@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/static/js/main.95ba726c.js",
+    "static/js/787.4e2e48d4.chunk.js": "/static/js/787.4e2e48d4.chunk.js",
+    "static/media/gamenight.png": "/static/media/gamenight.21c364c0147247d120a6.png",
+    "index.html": "/index.html",
+    "main.95ba726c.js.map": "/static/js/main.95ba726c.js.map",
+    "787.4e2e48d4.chunk.js.map": "/static/js/787.4e2e48d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.95ba726c.js"
+  ]
+}
